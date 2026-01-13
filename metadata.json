@@ -1,0 +1,5 @@
+{
+  "name": "SheetOrder - Gestor de Pedidos",
+  "description": "WebApp corporativo para realização de pedidos via WhatsApp utilizando Google Sheets como base de dados.",
+  "requestFramePermissions": []
+}
